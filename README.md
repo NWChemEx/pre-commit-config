@@ -16,5 +16,5 @@
 
 # NWX pre-commit Configuration
 
-The [pre-commit](https://pre-commit.com/) configuration file for a use by the
+The [pre-commit](https://pre-commit.com/) configuration file for use by the
 [NWChemEx](https://github.com/NWChemEx) software stack.
